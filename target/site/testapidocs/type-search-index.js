@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"uk.ac.rhul.cs2800.exception","l":"ExceptionTest"},{"p":"uk.ac.rhul.cs2800.model","l":"GradeTest"},{"p":"uk.ac.rhul.cs2800.model","l":"StudentTest"}];updateSearchResults();
